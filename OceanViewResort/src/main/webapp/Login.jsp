@@ -99,7 +99,7 @@
                     <div id="len" class="rule invalid">8+ Characters</div>
                     <div id="upper" class="rule invalid">1 Uppercase Letter</div>
                     <div id="lower" class="rule invalid">Lowercase Letters</div>
-                    <div id="num" class="rule invalid">1 Number</div>
+                    <div id="num" class="rule invalid">Numbers</div>
                     <div id="special" class="rule invalid">1 Special Char (@#$%^&*)</div>
                 </div>
             </div>
